@@ -1,0 +1,5 @@
+maintainer       "Oliver Feige"
+maintainer_email "ofeige@gmx.de"
+license          "Apache 2.0"
+description      "Configures dotdeb"
+version          "1.0.0"
